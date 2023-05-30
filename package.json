@@ -9,20 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@lottiefiles/lottie-player": "^1.7.1",
     "@react-three/drei": "^9.70.0",
     "@react-three/fiber": "^8.13.0",
+    "@react-three/postprocessing": "^2.14.6",
     "@types/node": "18.16.1",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
-    "autoprefixer": "10.4.14",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "next": "13.3.1",
-    "postcss": "8.4.23",
+    "next-themes": "^0.2.1",
+    "postprocessing": "^6.31.0",
     "react": "^18.2.0",
+    "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
-    "tailwindcss": "3.3.2",
+    "react-lottie-player": "^1.5.4",
+    "styled-components": "^5.3.11",
     "three": "^0.152.2",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/react-color": "^3.0.6",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
   }
 }
