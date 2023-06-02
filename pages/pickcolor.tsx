@@ -13,7 +13,6 @@ import App from "../components/pickcolor/App";
 // );
 
 import Head from "next/head";
-import Hero from "../components/home/hero";
 
 export default function Home() {
   return (
@@ -23,8 +22,6 @@ export default function Home() {
         <meta name="description" content="제인슨 포트폴리오" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <Hero />
 
       <StrictMode>
         <App />

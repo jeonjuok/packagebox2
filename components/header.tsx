@@ -36,6 +36,10 @@ export default function Header() {
               Projects
             </Link>
 
+            <Link href="/canvas" className="mr-5 hover:text-gray-900">
+              canvas
+            </Link>
+
             <Link href="/box01" className="mr-5 hover:text-gray-900">
               Box01
             </Link>

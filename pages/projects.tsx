@@ -1,12 +1,12 @@
-import css from "../styles/Home.module.css";
+import css from "../styles/Projects.module.css";
 import { Canvas } from "@react-three/fiber";
-import Box from "../components/Box";
-import OrbitControls from "../components/OrbitControls";
-import LightBulb from "../components/LightBulb";
-import Floor from "../components/Floor";
-import Draggable from "../components/Draggable";
+import Box from "../components/projects/Box";
+import OrbitControls from "../components/projects/OrbitControls";
+import LightBulb from "../components/projects/LightBulb";
+import Floor from "../components/projects/Floor";
+import Draggable from "../components/projects/Draggable";
 
-export default function Home() {
+export default function Projects() {
   return (
     <div className={css.scene}>
       <Canvas
