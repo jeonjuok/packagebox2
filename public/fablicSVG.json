@@ -1,0 +1,1433 @@
+{
+    "data": [
+      {
+        "id": "2f9a3fbe-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 65,
+        "elements": [
+          {
+            "id": "adbf50df-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18619d2c-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "57/6e/a2079d7e223b6afb4ee5fe9c94b2.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "들꽃 일러스트 96"
+          },
+          {
+            "id": "adbf51e6-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861a264-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b8/19/7e5bbc7678b776683f12a8a9aaec.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "들꽃 일러스트 73"
+          },
+          {
+            "id": "adbf521e-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861a2db-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3a/79/719d8d782dcf189fb2ebec8ba8ef.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "들꽃 일러스트 46"
+          },
+          {
+            "id": "adbf523e-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861a2fe-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "85/dc/09a3fae1b0381b278e6c2b0c4c42.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "들꽃 일러스트 40"
+          },
+          {
+            "id": "adbf5259-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861a31e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f0/33/70fa58a75ff59d7f958ba3e3180f.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "들꽃 일러스트 65"
+          },
+          {
+            "id": "adbf5279-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861a33b-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "cd/14/5f5db931d0729f9a6f752edfa221.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "들꽃 일러스트 59"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "들꽃 패턴"
+      },
+      {
+        "id": "2f9a4077-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 36,
+        "elements": [
+          {
+            "id": "adbf60ec-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861b41e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "4f/1e/8111d1a9646f598f424462e8ef58.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트 107"
+          },
+          {
+            "id": "adbf6107-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861b43a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "98/a1/8140a22ea73defd9b4862eb514d0.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트 100"
+          },
+          {
+            "id": "adbf6121-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861b457-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f8/9c/e085262ba6282e23eba2e00c87f1.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트 86"
+          },
+          {
+            "id": "adbf613b-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861b473-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "a2/fd/f0c6565ec2498d98b20c0afbdc54.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트 92"
+          },
+          {
+            "id": "adbf6155-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861b48f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "5d/21/e5100ac43f70bb10aa767ea33438.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트 113"
+          },
+          {
+            "id": "adbf616f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861b4ad-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "6b/02/c2e72c5cfcb31dedbdb17dd425eb.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트 82"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "꽃 일러스트"
+      },
+      {
+        "id": "2f9a408e-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 42,
+        "elements": [
+          {
+            "id": "adbf64ad-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861bd07-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b6/fd/00c461076c947f508718905d8c30.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "이파리 일러스트 8"
+          },
+          {
+            "id": "adbf64c7-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861bd40-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "d3/7f/85257839d00d153739a92f77b310.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "이파리 일러스트 12"
+          },
+          {
+            "id": "adbf64e3-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861bd25-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "9d/76/af073f9fdf76aba63618ca047990.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "이파리 일러스트 2"
+          },
+          {
+            "id": "adbf6576-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861bd5d-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "08/95/d2ec862282b0100a31d293846a28.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "이파리 일러스트 4"
+          },
+          {
+            "id": "adbf659f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861bd79-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "27/32/6965ea9751ac85807a78b3ea4b48.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "이파리 일러스트 11"
+          },
+          {
+            "id": "adbf65bc-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861bdb7-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "56/3f/5759405bb304cd1d71a214615288.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "이파리 일러스트 16"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "이파리 일러스트"
+      },
+      {
+        "id": "2f9a409f-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 9,
+        "elements": [
+          {
+            "id": "adbf6988-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c1cf-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "fc/db/777482132811e773c6fe2d1e0c25.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "리본1"
+          },
+          {
+            "id": "adbf69a2-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c1ed-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ff/7f/42dc34861098f2b89a63c167eb4d.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "리본8"
+          },
+          {
+            "id": "adbf69bc-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c20a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "7b/da/414e74d474c76773d4341161aa53.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "리본7"
+          },
+          {
+            "id": "adbf69d6-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c225-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3e/47/e6038e0e1b0da2c3803988328d6c.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "리본2"
+          },
+          {
+            "id": "adbf69f0-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c240-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "d7/bd/6f19b612feee8827354b89eb23df.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "리본9"
+          },
+          {
+            "id": "adbf6a09-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c25f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "43/bf/eca29ccbfb238d2294d190d04ed9.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "리본5"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "리본 타이틀"
+      },
+      {
+        "id": "2f9a40ad-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 48,
+        "elements": [
+          {
+            "id": "adbf6a74-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c2d5-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "61/3c/77c1b09f70d77f6c4f819e9d6b54.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "멤피스 페턴 139"
+          },
+          {
+            "id": "adbf6a8f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c2f1-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "75/ce/001b30ccb33ed9b848c70ef5bfc9.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "멤피스 페턴 128"
+          },
+          {
+            "id": "adbf6aa9-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c310-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b2/0b/bf2a5f6c304c4306f85b9946e52e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "멤피스 페턴 141"
+          },
+          {
+            "id": "adbf6ac2-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c32f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ea/ca/7d143b0d2182f74f9f2299a09ee4.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "멤피스 페턴 132"
+          },
+          {
+            "id": "adbf6adb-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c34c-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "4a/e3/574e7eef3a6840b8efb4a0c74a68.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "멤피스 페턴 142"
+          },
+          {
+            "id": "adbf6af5-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c367-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "c2/c2/07f9a4e53a3f76580182380d323d.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "멤피스 페턴 137"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "멤피스 패턴"
+      },
+      {
+        "id": "2f9a40bb-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 53,
+        "elements": [
+          {
+            "id": "adbf6f5c-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c85b-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "68/33/b026b1177fe6924e42e24191b2bb.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 4"
+          },
+          {
+            "id": "adbf6f74-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c92d-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "77/d9/5a119856ea2aeb2f8ea811375060.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 7"
+          },
+          {
+            "id": "adbf6f8d-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c95e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "1e/1a/d7e85ddb14c0c429efa4f0d6fba2.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 18"
+          },
+          {
+            "id": "adbf6fa5-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861c986-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "c6/43/cd84ce21fcdd5e3c40c28a0c9b32.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 3"
+          },
+          {
+            "id": "adbf6fbe-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861cacc-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "35/cd/e9e9af302b7d17bb20eb920c1b91.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 14"
+          },
+          {
+            "id": "adbf6fd6-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861cb38-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "4e/2d/94bf43127af2ab34b2881fc13acc.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 8"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "펜 일러스트레이션"
+      },
+      {
+        "id": "2f9a40cc-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 20,
+        "elements": [
+          {
+            "id": "adbf75f1-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d19f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "90/42/e9b6dc231b8c4d3de57036ab3571.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 장식 18"
+          },
+          {
+            "id": "adbf760c-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d1bd-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f4/1a/4bf82d17fa13548fe96d04a71852.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 장식 9"
+          },
+          {
+            "id": "adbf7626-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d1d7-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "da/72/98de25789a72dcc5e298eca7257e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 장식 6"
+          },
+          {
+            "id": "adbf7640-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d1f6-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "2e/89/9fc1cc7ff07157f34f69f831e86c.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 장식 13"
+          },
+          {
+            "id": "adbf765a-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d235-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3c/a3/45ea92c804a50bfd674d3e6e2c41.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 장식 10"
+          },
+          {
+            "id": "adbf7673-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d213-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3e/ab/d483844d2a5334d92496f5e83e32.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 장식 15"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "펜 일러스트레이션 장식"
+      },
+      {
+        "id": "2f9a40db-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 53,
+        "elements": [
+          {
+            "id": "adbf77fd-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d3ed-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "78/6f/97e515c45d9a5a422d10e08b531f.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "식물 라인 일러스트  8"
+          },
+          {
+            "id": "adbf7819-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d40b-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "a8/72/8f981736ae4795c68100823c7b99.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "식물 라인 일러스트  2"
+          },
+          {
+            "id": "adbf7834-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d428-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b4/88/cbc3886146b0c8a1f06fb91ce9a3.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "식물 라인 일러스트  15"
+          },
+          {
+            "id": "adbf784d-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d443-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "94/91/737584fe43496aa3936e58e3b9ce.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "식물 라인 일러스트  5"
+          },
+          {
+            "id": "adbf7867-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d463-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3f/8d/79c977bd5e91e62cd001127c8a96.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "식물 라인 일러스트  13"
+          },
+          {
+            "id": "adbf7881-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861d480-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "89/19/8d8eb364574ea1135f99153cffbd.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "식물 라인 일러스트  17"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "식물 라인 일러스트"
+      },
+      {
+        "id": "2f9a40e9-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 15,
+        "elements": [
+          {
+            "id": "adbf7d73-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861da2e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3e/40/349956f938b961bf76911dfbfcd2.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "프레임 태두리 34"
+          },
+          {
+            "id": "adbf7d8b-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861da4d-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "c4/ac/f0358d5b648787ab0bb571509895.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "프레임 태두리 41"
+          },
+          {
+            "id": "adbf7da5-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861da6a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3d/d4/cd1110397d8dd20c5689ffc7ed18.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "프레임 태두리 42"
+          },
+          {
+            "id": "adbf7dc0-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861da86-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "4d/9c/6c5a1b2dd0918e002cdda018f158.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "프레임 태두리 43"
+          },
+          {
+            "id": "adbf7dd9-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861daa2-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "e6/2b/2fa74826903bb75a49993701d9f8.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "프레임 태두리 40"
+          },
+          {
+            "id": "adbf7df4-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861dabd-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "e1/e5/5216fc395e870a7b81da00524ebc.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "프레임 태두리 36"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "프레임 테두리"
+      },
+      {
+        "id": "2f9a40f7-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 78,
+        "elements": [
+          {
+            "id": "adbf7f2e-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861dc6c-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "2e/cd/a347288120b44b8583df07a1eb4a.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "칼라 일러스트 136"
+          },
+          {
+            "id": "adbf7f3f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861dc8a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "fb/b0/c7a5db32523c707a4ca29fc0e018.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "칼라 일러스트 135"
+          },
+          {
+            "id": "adbf7f4f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861dca7-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ab/68/d778af6666afe26cfc2dc8a8e38c.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "칼라 일러스트 133"
+          },
+          {
+            "id": "adbf7f5e-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861dcc3-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "5f/29/c6b33f7ebb0763c1f13dcd0082c9.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "칼라 일러스트 130"
+          },
+          {
+            "id": "adbf7f6c-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861dce6-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "71/89/13251f3b327b2a7140107d83c881.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "칼라 일러스트 137"
+          },
+          {
+            "id": "adbf7f7c-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861de19-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ec/3b/f689f2fdc82e1f712d96b44211b6.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "칼라 일러스트 131"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "컬러 일러스트"
+      },
+      {
+        "id": "2f9a4106-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 19,
+        "elements": [
+          {
+            "id": "adbf8539-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e6a6-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "e1/2c/ffd0e252335a8d234d5c590aa121.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "흑백 펜 일러스트레이션 11 (2)"
+          },
+          {
+            "id": "adbf8554-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e6c0-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3e/0b/e1042fd7c9f515930186c76db7cf.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "흑백 펜 일러스트레이션 9"
+          },
+          {
+            "id": "adbf856f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e6da-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "88/ca/1be757d4a19eb09d81d99b4967fc.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "흑백 펜 일러스트레이션 7"
+          },
+          {
+            "id": "adbf8587-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e6f6-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "42/55/60522733bb3eb4af270aa014d76c.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "흑백 펜 일러스트레이션 10 (2)"
+          },
+          {
+            "id": "adbf85a2-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e72a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "a4/9c/0813c20f10c0b380a717e92e6b99.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "흑백 펜 일러스트레이션 3"
+          },
+          {
+            "id": "adbf85bb-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e710-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f1/c9/14e6bb9e09fc46db8e5449c931c0.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "흑백 펜 일러스트레이션 12 (2)"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "흑백 펜 일러스트레이션"
+      },
+      {
+        "id": "2f9a4114-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 15,
+        "elements": [
+          {
+            "id": "adbf8732-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e89e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "c9/09/c06aa1667a74451afaaa37194c2f.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 베이커리 4"
+          },
+          {
+            "id": "adbf874b-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e8b8-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "7c/67/804e9f51c6202476522cb49b0ed2.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 베이커리 7"
+          },
+          {
+            "id": "adbf8765-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e8d7-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "8e/5b/99414b3bec2ff4860cba8d452194.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 베이커리 5"
+          },
+          {
+            "id": "adbf877f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e90f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "08/01/a4c3f022a9cc287614ce3f792e18.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 베이커리 9"
+          },
+          {
+            "id": "adbf879a-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e931-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "01/60/6ec14084365b89e64aec18ef962d.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 베이커리 6"
+          },
+          {
+            "id": "adbf87b4-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861e94a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "99/c9/0084516460677043497220be5ede.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "팬 일러스트 베이커리 11"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "펜 일러스트 베이커리"
+      },
+      {
+        "id": "2f9a4122-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 67,
+        "elements": [
+          {
+            "id": "adbf88bd-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861ea4f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "0e/8d/aa5a7d79fb41b0a3c680387c0b22.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "우주 일러스트 73"
+          },
+          {
+            "id": "adbf88d6-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861ea68-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "48/59/90be6b0a46ff471febb03229e623.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "우주 일러스트 75"
+          },
+          {
+            "id": "adbf88f2-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861ea85-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "7b/d4/bbf8d4bf462ee3231b043cf51f6d.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "우주 일러스트 71"
+          },
+          {
+            "id": "adbf890c-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861ea9f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "51/7f/4b38320a7366699f5442ebf54595.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "우주 일러스트 79"
+          },
+          {
+            "id": "adbf8927-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861eab9-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b3/a6/74d75a4505a6bfbd07c7c654e50f.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "우주 일러스트 81"
+          },
+          {
+            "id": "adbf8943-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861ead6-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "c0/99/855f9772d5c5a49aa9af9719e3e8.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "우주 일러스트 70"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "우주 일러스트"
+      },
+      {
+        "id": "2f9a4130-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 78,
+        "elements": [
+          {
+            "id": "adbf8fa5-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861f2b2-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "31/02/000b5702fc862c318fa00bb7c93b.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "고양이 일러스트 11"
+          },
+          {
+            "id": "adbf8fbf-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861f2cb-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "a4/11/4c894a163b646243dcb6a129030c.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "고양이 일러스트 4"
+          },
+          {
+            "id": "adbf8fda-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861f2e5-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "25/a1/60441b4c471bd798e66494ea7c37.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "고양이 일러스트 14"
+          },
+          {
+            "id": "adbf8ff5-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861f300-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ca/39/9c3b031080370e749fdc91f6e966.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "고양이 일러스트 15"
+          },
+          {
+            "id": "adbf9050-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861f31d-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "01/8e/d1e07a80dd6afa16e5422997ab4b.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "고양이 일러스트 2"
+          },
+          {
+            "id": "adbf9083-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861f33a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f8/42/ca6dc10b69908ec19898ec6f46cd.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "고양이 일러스트 8"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "고양이 일러스트"
+      },
+      {
+        "id": "2f9a413e-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 81,
+        "elements": [
+          {
+            "id": "adbf9843-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861fc20-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "d8/49/8b753dbdd6ec54d15c50aafafb28.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "괴물 일러스트 8"
+          },
+          {
+            "id": "adbf985f-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861fc39-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "af/29/7530b4557b9ce72e7d1877de8053.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "괴물 일러스트 4"
+          },
+          {
+            "id": "adbf987a-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861fc53-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "78/f8/7baeabbda38fb6ae58fc00de4c34.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "괴물 일러스트 3"
+          },
+          {
+            "id": "adbf9897-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861fc70-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "47/c8/66f6db218f74418b227e8340277e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "괴물 일러스트 7"
+          },
+          {
+            "id": "adbf98b0-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861fc8c-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b3/a4/2cea42c70fbc9d957c3622b23d8e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "괴물 일러스트 13"
+          },
+          {
+            "id": "adbf98c9-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "1861fca7-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "17/f6/52a34c09fb2d5f6c027844916da0.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "괴물 일러스트 14"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "괴물 일러스트"
+      },
+      {
+        "id": "2f9a414b-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "monocolor",
+        "elementsCount": 48,
+        "elements": [
+          {
+            "id": "adbfa1b2-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "186204b2-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3e/14/b14973c21baccbb7fed5821b2e2f.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "강아지 일러스트 133"
+          },
+          {
+            "id": "adbfa1c0-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "186204cd-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ff/18/00c040b011cb977dcf821fe76043.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "강아지 일러스트 132"
+          },
+          {
+            "id": "adbfa1ce-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "186204e9-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "af/fd/71a489cf569261cbf472e3db2b42.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "강아지 일러스트 134"
+          },
+          {
+            "id": "adbfa1dd-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18620504-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f6/dd/b11bb6978943a404bb69496384a3.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "강아지 일러스트 126"
+          },
+          {
+            "id": "adbfa1eb-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "1862051d-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "85/b2/64750148c29ef04b19409cbb13e4.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "강아지 일러스트 140"
+          },
+          {
+            "id": "adbfa1fa-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18620539-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ba/c2/3c009ba02153ef9b7cccd632cd18.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "강아지 일러스트 125"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "강아지 일러스트"
+      },
+      {
+        "id": "2f9a4159-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 124,
+        "elements": [
+          {
+            "id": "adbfa59a-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18620a03-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "4f/22/29b650d346fa8f18c48e49d8027b.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트레이션6 (2)"
+          },
+          {
+            "id": "adbfa5b3-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18620a1e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "a5/a4/0f8c409fe88d229b4b253cc52d50.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트레이션3"
+          },
+          {
+            "id": "adbfa5cc-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18620a38-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "eb/9e/6cc2759f478678aab79fc445531e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트레이션7"
+          },
+          {
+            "id": "adbfa5e8-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18620a53-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "77/b2/a5601d8325da14dd9d713481fb48.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트레이션"
+          },
+          {
+            "id": "adbfa601-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18620a6d-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "aa/de/56d5f842da07e1ef96aa1c28e38e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트레이션4"
+          },
+          {
+            "id": "adbfa610-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18620a87-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "23/64/2feb205c6fa96c69f28a8d6cf99d.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "꽃 일러스트레이션7 (2)"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "숲속 일러스트레이션"
+      },
+      {
+        "id": "2f9a4168-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 117,
+        "elements": [
+          {
+            "id": "adbfb25b-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18621c8a-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "f6/d7/d9afdb946b51d7929dd675636e03.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "귀여운 일러스트718"
+          },
+          {
+            "id": "adbfb276-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18621ca3-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "25/8e/43c6332ebc0fedecc09a5f4d5d17.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "귀여운 일러스트710"
+          },
+          {
+            "id": "adbfb292-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18621d3e-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "cd/e0/7febdb8c8d8ca90f24b415b2c742.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "귀여운 일러스트717"
+          },
+          {
+            "id": "adbfb2ab-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18621d7f-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "ae/d3/3d43176f4501827f69a8e409243e.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "귀여운 일러스트722"
+          },
+          {
+            "id": "adbfb2c5-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18621da5-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "d5/09/9c0095390749976ac93dc27f38d0.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "귀여운 일러스트711"
+          },
+          {
+            "id": "adbfb2e1-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "multicolor",
+            "asset": {
+              "id": "18621de6-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "fe/e2/24b31e09dba2923c59d6509a5b21.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "귀여운 일러스트720"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "귀여운 컬러 일러스트레이션"
+      },
+      {
+        "id": "2f9a4176-f788-11ec-bfd8-0242ac170003",
+        "colorMode": "multicolor",
+        "elementsCount": 51,
+        "elements": [
+          {
+            "id": "adbfbe7e-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18622e6b-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "c2/c6/a1b8640e07fd51755a860895b2b2.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "손그림 팬 일러스트레이션 9"
+          },
+          {
+            "id": "adbfbe99-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18622e88-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "b6/7c/36e6d76da4b526198987de7765a7.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "손그림 팬 일러스트레이션 6"
+          },
+          {
+            "id": "adbfbeb3-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18622ea5-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "51/e8/d0c3159217956b2b0831c434ea98.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "손그림 팬 일러스트레이션 10"
+          },
+          {
+            "id": "adbfbecf-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18622ebe-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "8b/7b/d23385b1a8247bdc4810db8fe029.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "손그림 팬 일러스트레이션 15"
+          },
+          {
+            "id": "adbfbee7-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18622ed7-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "3a/66/d668658bda1917ee90167661c941.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "손그림 팬 일러스트레이션 7"
+          },
+          {
+            "id": "adbfbf02-f785-11ec-bfd8-0242ac170003",
+            "colorMode": "monocolor",
+            "asset": {
+              "id": "18622ef1-f767-11ec-ac04-0242ac170003",
+              "type": "vector",
+              "path": "1a/26/55d5f73dd7a42fc1be94245bd5b9.svg"
+            },
+            "languageCode": "ko_KR",
+            "name": "손그림 팬 일러스트레이션 16"
+          }
+        ],
+        "languageCode": "ko_KR",
+        "name": "손그림 펜 일러스트"
+      }
+    ],
+    "count": 19,
+    "total": 19,
+    "page": 1,
+    "pageCount": 1
+  }

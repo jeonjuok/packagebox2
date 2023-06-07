@@ -1,7 +1,7 @@
 // pages/index.js
 import Head from 'next/head'
 import styles from '../styles/ThreeScene.module.css'
-import ThreeScene from '../components/ThreeScene'
+import ThreeScene3 from '../components/ThreeScene3'
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <div className={styles.scene}>
         <div className="page">
-        <ThreeScene />
+        <ThreeScene3 />
         </div>
       </div>
 

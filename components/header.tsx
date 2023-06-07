@@ -29,9 +29,36 @@ export default function Header() {
             <Link href="/" className="mr-5 hover:text-gray-900">
               Home
             </Link>
+
             <Link href="/about" className="mr-5 hover:text-gray-900">
               About
             </Link>
+
+            <Link href="/index.html" className="mr-5 hover:text-gray-900">
+              svgDownload
+            </Link>
+            
+
+            <Link href="/layoutTest" className="mr-5 hover:text-gray-900">
+              layoutTest
+            </Link>
+            
+            <Link href="/MyFabricPage" className="mr-5 hover:text-gray-900">
+              MyFabricPage
+            </Link>
+
+            <Link href="/MyFabricDelete" className="mr-5 hover:text-gray-900">
+            MyFabricDelete
+            </Link>
+            
+            <Link href="/MyFabricList" className="mr-5 hover:text-gray-900">
+            MyFabricList
+            </Link>            
+
+            <Link href="/fabricTest" className="mr-5 hover:text-gray-900">
+              fabricTest
+            </Link>
+
             <Link href="/projects" className="mr-5 hover:text-gray-900">
               Projects
             </Link>
@@ -42,6 +69,14 @@ export default function Header() {
 
             <Link href="/box01" className="mr-5 hover:text-gray-900">
               Box01
+            </Link>
+            
+            <Link href="/box02" className="mr-5 hover:text-gray-900">
+              Box02
+            </Link>
+
+            <Link href="/box03" className="mr-5 hover:text-gray-900">
+              Box03
             </Link>
 
             <Link href="/project-bananas" className="mr-5 hover:text-gray-900">

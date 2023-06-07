@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.jsx", "pages/canvas.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.jsx", "pages/canvas.js", "components/ThreeScene.js", "components/ThreeScene.js"],
   "exclude": ["node_modules"]
 }
