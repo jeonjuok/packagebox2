@@ -34,8 +34,26 @@ export default function Header() {
               About
             </Link>
 
+
+            <Link href="/editor" className="mr-5 hover:text-gray-900">
+            editor
+            </Link>
+
+            <Link href="/editor2" className="mr-5 hover:text-gray-900">
+            editor2
+            </Link>
+
+            <Link href="/editorFabric" className="mr-5 hover:text-gray-900">
+            editorFabric
+            </Link>
+
+            <Link href="/editorThree" className="mr-5 hover:text-gray-900">
+            editorThree
+            </Link>
+
+
             <Link href="/index.html" className="mr-5 hover:text-gray-900">
-              svgDownload
+              svgDownloa
             </Link>
             
 
